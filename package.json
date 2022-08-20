@@ -2470,7 +2470,7 @@
         "vscode": "^1.1.36",
         "vscode-azureextensiondev": "^0.3.1",
         "vscode-nls-dev": "^3.3.1",
-        "webpack": "^4.42.1",
+        "webpack": "^5.74.0",
         "webpack-cli": "^3.3.11"
     },
     "dependencies": {
