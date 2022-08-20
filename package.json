@@ -2444,7 +2444,7 @@
         "@types/string-replace-webpack-plugin": "^0.1.0",
         "@types/tar": "^4.0.3",
         "@types/xml2js": "^0.4.5",
-        "@typescript-eslint/eslint-plugin": "^2.25.0",
+        "@typescript-eslint/eslint-plugin": "^5.31.0",
         "@typescript-eslint/eslint-plugin-tslint": "^2.25.0",
         "@typescript-eslint/parser": "^2.25.0",
         "adm-zip": "^0.4.14",
